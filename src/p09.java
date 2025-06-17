@@ -1,4 +1,4 @@
-public class p9 {
+public class p09 {
     public static void main(String[] args) {
         int x = 1;
         int y = 5;
