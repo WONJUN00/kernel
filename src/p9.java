@@ -15,6 +15,7 @@ public class p9 {
             y--;
             System.out.println(" ");
         }
+
         for(int i = 4; i <= 5; i++){
             for(int j = 1; j <= 5; j++){
                 if(j <= x && j >= y){
