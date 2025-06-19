@@ -1,10 +1,12 @@
-public class p03 {
+package STAR;
+
+public class p06 {
     public static void main(String[] args) {
-        for(int i = 5; i >= 1; i--) {
-            for(int j = 1; j <= 5; j++) {
-                if(i == j) {
+        for (int i = 5; i >= 1; i--){
+            for(int j = 1; j <= 5; j++){
+                if(j >= i){
                     System.out.print("*");
-                }else {
+                }else{
                     System.out.print(" ");
                 }
             }

@@ -1,3 +1,5 @@
+package STAR;
+
 public class p09 {
     public static void main(String[] args) {
         int x = 1;
